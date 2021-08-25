@@ -1,0 +1,87 @@
+body {
+    text-align: center;
+    background: linear-gradient(#E1BEE7 0%, #90CAF9 100%);
+    background-color: aqua background-repeat: no-repeat;
+}
+
+h1 {
+    text-shadow: 2px 2px #F8BBD0;
+    font-size: 20px;
+}
+
+#bio {
+    padding: 20px;
+    font-size: 18;
+    text-align: center;
+}
+
+
+#myname {
+    font-family: 'Courgette', cursive;
+}
+
+.line {
+    height: 6px;
+    width: 100px;
+    text-align: center;
+}
+#welcome{
+color: aqua;
+font-family: sans-serif;
+display: table;
+width: 100%;
+height: 100%;
+position: relative;
+z-index: 9;
+}
+#inner{
+text-align: center;
+display: table-cell;
+}
+.links{
+display: inline;
+margin-top: 0px;
+padding-left: 9px;
+padding-right: 9px;
+}
+#games{
+background-color: blue;
+padding-bottom: 30px;
+}
+.container{
+text-align: center;
+margin-bottom: 100px;
+}
+#MyCarousel img{
+height: 300px;
+margin-top: 35px;
+}
+.carousel-inner p{
+color: white;
+font-size: 20px;
+margin-top: 5px;
+margin-bottom: 5px;
+}
+.menu {
+    position: fixed;
+    font-family: cursive;
+    top: 10px;
+    cursor: pointer;
+    color: black
+    z-index: 10;
+}
+
+#work {
+    width: 1000px;
+    height: 400px;
+}
+#work h1{
+text-align: center;
+}
+.contact-info h3{
+display: inline;
+}
+#profile{
+border-radius: 75%
+width: 450px;
+}
